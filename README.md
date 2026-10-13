@@ -20,12 +20,13 @@ I'm a **Lecturer at the Department of Computer Science, Forman Christian College
 
 ## 🔬 Research Interests
 
-- Natural Language Processing (NLP)
+- Natural Language Processing (NLP) Pakistan Sign Language (PSL) Translation
+- Multi-Agent Aritificial Intelligence
 - Machine Learning & Deep Learning
-- Pakistan Sign Language (PSL) Translation
 - Computer Vision & Image Understanding
 - Conversational AI & Online Proctoring
-- Constraint Satisfaction & Timetable Scheduling
+- Distributed Computing
+- Ethical Computation
 
 ---
 
@@ -63,7 +64,7 @@ I'm a **Lecturer at the Department of Computer Science, Forman Christian College
 |----------|--------------|----------|
 | **Lecturer** | Department of Computer Science, FC College (A Chartered University), Lahore | Oct 2022 – Present |
 | **Adjunct Faculty** | Department of Computer Science, FC College (A Chartered University), Lahore | Mar 2022 – Jul 2022 |
-| **Assistant Chaplain** | Office of the Chapel, Religious Life Department, FC College | Mar 2021 – Sep 2022 |
+| **ML Engineer** | ML Sense, UK based Startup | Sep 2021 – Dec 2021 |
 | **Senior Computer Instructor** | Barnabas Computer Center (Barnabas Fund, UK), AOG High School, Lahore | Nov 2020 – Jun 2021 |
 | **Lecturer (Contract)** | FC College, Lahore | Sep 2020 – Dec 2020 |
 
@@ -99,7 +100,7 @@ Python, Java, C, C++, Assembly Language, SQL, PHP, JavaScript
 MySQL, MongoDB, Firebase
 
 **Tools & Frameworks:**  
-Android Studio, VS Code, Eclipse, MS Office, WordPress, REST API, LaTeX, InPage
+Android Studio, VS Code, Eclipse, MS Office, WordPress, REST API, LaTeX, InPage, Github (CI/CD pipelines)
 
 **AI/ML & Data Science:**  
 Scikit-learn, Keras, Transformers, Ollama, Neural Networks, NLP, Machine Learning
