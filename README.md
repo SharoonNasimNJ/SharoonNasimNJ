@@ -148,7 +148,6 @@ Public Speaking, Sermon Sharing & Preaching, Team Player, Cooking, Singing & Mus
 ## 🌐 Connect with Me
 
 - 📧 Email: [sharonnasim2@gmail.com](mailto:sharonnasim2@gmail.com), [sharonnasim@fccollege.edu.pk](mailto:sharonnasim@fccollege.edu.pk)
-- 📞 Phone: +92 331 4149455
 - 🔗 LinkedIn: [https://pk.linkedin.com/in/sharoonnasim](https://pk.linkedin.com/in/sharoonnasim)
 - 🎓 Google Scholar: [https://scholar.google.com/citations?user=Mb0Kn4sAAAAJ&hl=en](https://scholar.google.com/citations?user=Mb0Kn4sAAAAJ&hl=en)
 
